@@ -24,7 +24,11 @@ pneumonia/
 ├── train/
 │   ├── NORMAL/
 │   └── PNEUMONIA/
-│
+|
+│└── val/
+|    ├── NORMAL/
+|    └── PNEUMONIA/
+|
 └── test/
     ├── NORMAL/
     └── PNEUMONIA/
@@ -90,8 +94,7 @@ model.save("pneumonia_efficientnetb0.h5")
 
 ---
 
-## 🛠️ Teknologi
-- Python  
+## 🛠️ Library
 - TensorFlow / Keras  
 - EfficientNet  
 - NumPy  
@@ -99,15 +102,9 @@ model.save("pneumonia_efficientnetb0.h5")
 
 ---
 
-## ✨ Pengembangan Lanjutan
-Beberapa pengembangan yang dapat dilakukan:
-- Fine-tuning EfficientNet
-- Data augmentation
-- Confusion Matrix & Classification Report
-- Grad-CAM untuk interpretabilitas
-
+## ✨ Result
 ---
-
-## 👤 Author
-**Chris**  
-Computer Vision & Deep Learning
+<img width="450" height="176" alt="Screenshot_30" src="https://github.com/user-attachments/assets/d0c26a4c-5e66-427e-8587-5b22eef5594c" />
+---
+<img width="489" height="394" alt="Screenshot_29" src="https://github.com/user-attachments/assets/78abeed2-5568-4ba6-bcd2-c3b9802e80e0" />
+---
