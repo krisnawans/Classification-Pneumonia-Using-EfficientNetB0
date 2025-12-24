@@ -34,7 +34,7 @@ pneumonia/
     └── PNEUMONIA/
 ```
 
-> Folder tidak relevan seperti `__MACOSX` dibersihkan sebelum training untuk mencegah error.
+> Train: 4684 | Val:   586 | Test:  586
 
 ---
 
