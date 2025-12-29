@@ -1,5 +1,13 @@
 # 🫁 Pneumonia Classification using EfficientNetB0
 
+Tim Contributor :
+
+Krisnawan 				    : 22083010068 
+Talitha Adilla Fujisai P.P	: 22083010079 
+Cahya Eka Melati 			: 22083010090 
+Wahyu Putra Pratama 		: 22083010092 
+Hanin Anindya Putri 		: 22083010086 
+
 ## 🚀 Ringkasan Proyek
 Proyek ini membangun model klasifikasi pneumonia berbasis citra **Chest X-ray** menggunakan arsitektur **EfficientNetB0** dengan pendekatan *transfer learning*. Model bertujuan untuk mengklasifikasikan citra ke dalam dua kelas: **Pneumonia** dan **Normal**.
 
