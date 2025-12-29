@@ -14,7 +14,7 @@ Hanin Anindya Putri 		: 22083010086
 
 
 ## 🚀 Ringkasan Proyek
-Proyek ini membangun model klasifikasi pneumonia berbasis citra **Chest X-ray** menggunakan arsitektur **EfficientNetB0** dengan pendekatan *transfer learning*. Model bertujuan untuk mengklasifikasikan citra ke dalam dua kelas: **Pneumonia** dan **Normal**.
+Proyek ini membangun model klasifikasi pneumonia berbasis citra Chest X-ray menggunakan arsitektur EfficientNetB0 dengan pendekatan transfer learning. Model bertujuan untuk mengklasifikasikan citra ke dalam dua kelas: Pneumonia dan Normal.
 
 ---
 
@@ -58,19 +58,19 @@ Langkah preprocessing meliputi:
 - Validasi struktur direktori
 - Pengecekan jumlah data per kelas
 
-Hal ini penting untuk mencegah **data leakage**, terutama pada domain medis.
+Hal ini penting untuk mencegah data leakage, terutama pada domain medis.
 
 ---
 
 ## 🧠 Arsitektur Model
-Model menggunakan **EfficientNetB0** sebagai backbone dengan konfigurasi berikut:
+Model menggunakan EfficientNetB0 sebagai backbone dengan konfigurasi berikut:
 
 1. EfficientNetB0 (`include_top=False`)
 2. Global Average Pooling
 3. Dense Layer
-4. Output layer dengan **sigmoid activation**
+4. Output layer dengan sigmoid activation
 
-Model dirancang untuk **binary classification**.
+Model dirancang untuk binary classification.
 
 ---
 
