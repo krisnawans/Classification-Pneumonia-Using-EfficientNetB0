@@ -125,4 +125,8 @@ model.save("pneumonia_efficientnetb0.h5")
 <img width="489" height="394" alt="Screenshot_29" src="https://github.com/user-attachments/assets/78abeed2-5568-4ba6-bcd2-c3b9802e80e0" />
 
 
-Berdasarkan confusion matrix dan classification report, model menunjukkan performa yang seimbang pada kedua kelas dengan tingkat kesalahan prediksi sekitar 3,6%. Meskipun demikian, keterbatasan dataset publik masih menjadi tantangan, sehingga pengembangan selanjutnya disarankan menggunakan data klinis yang lebih beragam, augmentasi lanjutan, serta eksplorasi arsitektur atau mekanisme attention untuk meningkatkan robustnes dan generalisasi model.
+Berdasarkan confusion matrix dan classification report, model menunjukkan performa yang seimbang pada kedua kelas dengan tingkat kesalahan prediksi sekitar 3,6%. Meskipun demikian, 
+
+keterbatasan dataset publik masih menjadi tantangan, sehingga pengembangan selanjutnya disarankan menggunakan data klinis yang lebih beragam, augmentasi lanjutan, 
+
+serta eksplorasi arsitektur atau mekanisme attention untuk meningkatkan robustnes dan generalisasi model.
