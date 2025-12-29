@@ -98,15 +98,6 @@ model.save("pneumonia_efficientnetb0.h5")
 
 ---
 
-## ▶️ Cara Menjalankan
-1. Upload dataset ke Google Drive
-2. Mount Google Drive di Colab
-3. Jalankan notebook dari awal hingga akhir
-4. Training dan evaluasi model
-5. Simpan model hasil training
-
----
-
 ## 🛠️ Library
 - TensorFlow / Keras  
 - EfficientNet  
